@@ -57,6 +57,7 @@ h1 {
 .item:hover {
     transform: translateY(-10px);
     transition: 0.3s all;
+    background-color: #00265f;
 }
 
 /* untuk mengatur responsive css */
